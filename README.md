@@ -17,7 +17,7 @@ THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 # Project result
-![image ](./assets/imades/capture.docx)
+![image ](./assets/images/capture.docx)
 
 # my page without css
-![image ](./assets/imades/Capture.JPG)
+![image ](./assets/images/Capture.JPG)
