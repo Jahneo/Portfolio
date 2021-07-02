@@ -17,7 +17,17 @@ THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 # Project result
-![image ](./assets/images/capture.docx)
+![image ](./assets/images/final.JPG)
 
 # my page without css
 ![image ](./assets/images/Capture.JPG)
+
+# code was used to make page open in all browers
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+ # favicon was added
+ my image
+
+ # Colors were tweak
+
+ # links wre make in cool stuffs
