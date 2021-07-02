@@ -1,4 +1,4 @@
-# User Stor
+# my Story
 AS AN employer
 I WANT to view a potential employee's deployed portfolio of work samples
 SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
@@ -30,4 +30,17 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
  # Colors were tweak
 
- # links wre make in cool stuffs
+ # links were make in cool stuffs
+
+ # How to sumbit
+ 
+How to Submit the Challenge
+You are required to submit BOTH of the following for review:
+
+The URL of the deployed application.
+
+The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
+
+# Issues
+Color format and level of opacity function calls
+Trying to make th web-site looks similar to the expectation
