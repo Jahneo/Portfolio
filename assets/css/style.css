@@ -23,6 +23,13 @@ a:hover {
   
 }
 
+/* hover over text in flexbox and cool stuff link */
+a:hover {
+ color: var(--dark);
+
+  list-style-type: none;
+  
+}
 body {
     margin: 0;
     padding: 0;
@@ -60,6 +67,7 @@ header h1 {
     font-size: 3vw;
     line-height: 1;
 }
+
 
 header a:hover {
     color: var(--light);
@@ -346,4 +354,7 @@ footer  {
         align-items: center;
     }
 }
+<<<<<<< HEAD
 */
+=======
+>>>>>>> d473717738d481cde824353c74f29dbcc1192d64

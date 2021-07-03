@@ -32,7 +32,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
  # links were make in cool stuffs
 
- # How to sumbit
+ # How to submit 
  
 How to Submit the Challenge
 You are required to submit BOTH of the following for review:
