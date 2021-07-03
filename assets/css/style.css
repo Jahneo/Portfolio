@@ -17,7 +17,7 @@
 
 /* hover over text in flexbox and cool stuff link */
 a:hover {
- color: var(--light);
+ color: var(--dark);
 
   list-style-type: none;
   
