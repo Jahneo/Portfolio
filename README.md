@@ -44,3 +44,29 @@ The URL of the GitHub repository that contains your code. Give the repository a 
 # Issues
 Color format and level of opacity function calls
 Trying to make th web-site looks similar to the expectation
+
+# Issues with merge and pull 
+
+Neil@Jahneo MINGW64 ~/Portfolio (main)
+$ git push origin main
+Enter passphrase for key '/c/Users/Neil/.ssh/id_rsa':
+To github.com:Jahneo/Portfolio.git
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'github.com:Jahneo/Portfolio.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+# Issues
+
+Neil@Jahneo MINGW64 ~/Portfolio (main)
+$ git push origin main
+Enter passphrase for key '/c/Users/Neil/.ssh/id_rsa':
+To github.com:Jahneo/Portfolio.git
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'github.com:Jahneo/Portfolio.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
