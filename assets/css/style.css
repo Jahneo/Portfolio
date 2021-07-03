@@ -8,11 +8,19 @@
 /* Site Core Colors + Style*/
 /* applying colors for hover over,fade and opacity */
 :root {
-    --primary: rgb(23, 136, 189);
+    --primary: rgb(5, 72, 117);
     --secondary:rgb(185, 218, 215);
     --tertiary: rgb(240,121,82)
     --dark: rgba(28, 29, 33, 1);
     --light: rgba(238, 238, 247, 1);
+}
+
+
+a:hover {
+ color: var(--light);
+
+  list-style-type: none;
+  
 }
 
 body {
@@ -274,12 +282,12 @@ footer  {
   }
 
 
-
+/*
 
 
 /* MEDIA QUERIES*/
 
-/* Max Width 980px*/
+/* Max Width 980px*
 
 @media screen and (max-width: 980px) {
     header {
@@ -322,7 +330,7 @@ footer  {
     }
 }
 
-/* Max Width 768px*/
+/* Max Width 768px*
 @media screen and (max-width: 768px) {
     .grid-item,
     .grid-item:first-child {
@@ -338,3 +346,4 @@ footer  {
         align-items: center;
     }
 }
+*/
